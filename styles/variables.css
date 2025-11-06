@@ -3,6 +3,7 @@
 :root{
     --bg-color: #fff;
     --header-border-color: #000;
+    --color: #000;
     --Inter: 'Inter-Variable', monospace, sans-serif;
     --PressStart2P: 'PressStart2P-Regular', fantasy;
     --header-font-weight:400;
@@ -18,4 +19,13 @@
     --header-padding: clamp(122px, 5.5rem + 1.91vw, 130px);
     --font-size-header-text:clamp(14px, 1.5972vw, 23px);
 
+    --button-border-color: #000;
+    --button-text-color: #000;
+    --button-background-color:#fff;
+    --button-fill-color: #000;
+    --button-size:14px;
+
+    --heart-contour-color: black;
+    --heart-sparks-color: red;
+    --time_step: 0.3s;
 }
