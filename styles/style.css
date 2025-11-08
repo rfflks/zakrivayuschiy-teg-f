@@ -126,7 +126,6 @@ main {
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  padding: 0px;
   padding: 12px 35px;
   border: 2px solid var(--button-border-color);
   background: var(--button-background-color);
