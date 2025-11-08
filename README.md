@@ -1,1 +1,1 @@
-https://github.com/rfflks/zakrivayuschiy-teg-f.git
+https://github.com/rfflks/zakrivayuschiy-teg-f.git https://rfflks.github.io/zakrivayuschiy-teg-f/
