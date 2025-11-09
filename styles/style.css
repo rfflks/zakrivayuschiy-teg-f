@@ -116,6 +116,7 @@ main {
   display: flex;
   margin-right: 25px;
   margin-bottom: 25px;
+  gap: 12px;
   justify-content: end;
 }
 
@@ -125,8 +126,9 @@ main {
   position: relative;
   align-items: center;
   justify-content: center;
+  width: 130px;
+  height: 38px;
   cursor: pointer;
-  padding: 12px 35px;
   border: 2px solid var(--button-border-color);
   background: var(--button-background-color);
   transition: box-shadow 0.3s ease;
